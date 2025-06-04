@@ -7,10 +7,10 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,bootstrap,git,github,react,wordpress" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,bootstrap,react,wordpress" />
   </a>
-  <img src="https://raw.githubusercontent.com/laravel/laravel.com/2.x/public/assets/img/logomark.min.svg" width="35" title="Livewire" />
 </p>
+
 
 
 
