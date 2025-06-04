@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Reza</h1>
+<h3 align="center">Full stack programming and web designer with over 4 years of specialized programming experience.Web developer with experience and skills in  all stages of web development.With the ability to complete projects individually and in collaboration  with a team.</h3>
 
-<!--
-**SATERWEB/SATERWEB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills :
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,bootstrap,git,github," />
+  </a>
+</p>
+
+
+## Github Stats :
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=RezaSeddigh&show_icons=true&theme=radical"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezaseddigh&show_icons=true&locale=en&layout=compact" alt="rezaseddigh" /> 
+
+
