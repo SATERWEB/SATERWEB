@@ -22,9 +22,10 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,react,js,html,css,bootstrap,mysql,wordpress,github,postman,vscode,figma,photoshop" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,react,js,html,css,bootstrap,mysql,wordpress,github,postman,vscode,figma,photoshop,illustrator" />
   </a>
 </p>
+
 
 ---
 
