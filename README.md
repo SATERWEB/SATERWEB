@@ -6,8 +6,7 @@
   🎯 Focused on crafting clean, scalable, and maintainable code with strong design aesthetics.<br>
   🤝 Comfortable working both independently and as part of a team to bring ideas to life.
 </p>
-
----
+ی
 
 ## 🚀 About Me
 
