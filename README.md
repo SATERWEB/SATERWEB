@@ -4,7 +4,7 @@
 <p align="center">
   👨‍💻 Passionate full-stack developer with over 4 years of experience building modern web applications.<br>  
   🎯 Focused on crafting clean, scalable, and maintainable code with strong design aesthetics.<br>
-  🤝 Comfortable working both independently and as part of a team to bring ideas to life.
+  🤝 Comfortable working both independently and as part of a team to bring ideas to life. 
 </p>
 ی
 
