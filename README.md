@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reza</h1>
-<h3 align="center">Full-Stack Developer | Web Designer | Open Source Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | Web Designer </h3>
 
 <p align="center">
   👨‍💻 Passionate full-stack developer with over 4 years of experience building modern web applications.<br>
