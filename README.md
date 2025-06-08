@@ -2,9 +2,9 @@
 <h3 align="center">Full-Stack Developer | Web Designer </h3>
 
 <p align="center">
-👨‍💻 Full-stack developer with 4+ years of experience in building modern web applications and websites.  
-🎯 Focused on clean code, scalable architecture, and strong UI/UX design.  
-🚀 Creator of [Saterweb](https://saterweb.com) — a digital web services platform.  
+👨‍💻 Full-stack developer with 4+ years of experience in building modern web applications and websites.<br>
+🎯 Focused on clean code, scalable architecture, and strong UI/UX design.<br>
+🚀 Creator of <a href="https://saterweb.com" target="_blank">Saterweb</a> — a digital web services platform.<br>
 💡 Passionate about building fast, reliable, and elegant web applications.
 </p>
 ی
