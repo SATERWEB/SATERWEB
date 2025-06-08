@@ -7,11 +7,6 @@
 💡 Passionate about building fast, reliable, and elegant web applications. Passionate about building **fast**, **reliable**, and **elegant** web applications.
 
 
-## ⚡ Fun fact  
-I love solving real-world problems with code and turning ideas into digital products.
-
-ی
-
 ## 🚀 About Me
 
 - 💻 **Tech Stack**: PHP (Laravel), JavaScript (React), MySQL, HTML5, CSS3, Bootstrap, Livewire, WordPress  
