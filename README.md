@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reza</h1>
 <h3 align="center">Full-Stack Developer & Web Designer</h3>
 
-<ul>
-  <li>Full-stack developer with 4+ years of experience in building modern <strong>web applications</strong> and <strong>websites</strong>.</li>
-  <li>Creator of <a href="https://saterweb.com" target="_blank"><strong>Saterweb</strong></a> — a digital web services platform.</li>
-  <li>Focused on <strong>clean code</strong>, <strong>scalable architecture</strong>, and <strong>UI/UX design</strong>.</li>
-  <li>Passionate about building <strong>fast</strong>, <strong>reliable</strong>, and <strong>elegant</strong> web experiences.</li>
-</ul>
-
 <hr>
 
 <h3>About Me</h3>
@@ -17,10 +10,12 @@
 </p>
 
 <ul>
-  <li><strong>Skills:</strong> PHP, Laravel, Livewire, JavaScript, React, WordPress, Tailwind CSS, Alpine.js</li>
-  <li><strong>Founder of:</strong> <a href="https://saterweb.com" target="_blank">Saterweb</a> — web design & digital services agency</li>
+  <li>Full-stack developer with 4+ years of experience in building modern <strong>web applications</strong> and <strong>websites</strong>.</li>
+  <li>Creator of <a href="https://saterweb.com" target="_blank"><strong>Saterweb</strong></a> — a digital web services platform.</li>
   <li><strong>Experience:</strong> Custom websites, web apps, and CMS-based platforms</li>
   <li><strong>Current focus:</strong> Scalable, user-centric solutions for startups and businesses</li>
+  <li>Focused on <strong>clean code</strong>, <strong>scalable architecture</strong>, and <strong>UI/UX design</strong>.</li>
+  <li>Passionate about building <strong>fast</strong>, <strong>reliable</strong>, and <strong>elegant</strong> web experiences.</li>
 </ul>
 
 
