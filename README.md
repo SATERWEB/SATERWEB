@@ -3,10 +3,11 @@
 
 <p align="center">
   👨‍💻 Full-stack developer with 4+ years of experience in building modern <strong>web applications</strong> and <strong>websites</strong>.<br>
-  🎯 Focused on <strong>clean code</strong>, <strong>scalable architecture</strong>, and strong <strong>UI/UX design</strong>.<br>
   🚀 Creator of <a href="https://saterweb.com" target="_blank"><strong>Saterweb</strong></a> — a digital web services platform.<br>
+  🎯 Focused on <strong>clean code</strong>, <strong>scalable architecture</strong>, and strong <strong>UI/UX design</strong>.<br>
   💡 Passionate about building <strong>fast</strong>, <strong>reliable</strong>, and <strong>elegant</strong> web applications.
 </p>
+
 
 <hr>
 
