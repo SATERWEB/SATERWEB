@@ -19,10 +19,12 @@
 </p>
 
 <ul>
-  <li>🛠️ Tech I love: <strong>Laravel, Livewire, Tailwind CSS, Alpine.js, JavaScript</strong></li>
+  <li>🛠️ Skilled in: <strong>PHP, Laravel, Livewire, JavaScript, React, WordPress, Tailwind CSS, Alpine.js</strong></li>
   <li>🚀 Founder of <a href="https://saterweb.com" target="_blank"><strong>Saterweb</strong></a> — a web design & digital services agency</li>
-  <li>🎯 Currently working on custom web solutions for businesses and startups</li>
+  <li>💼 Experienced in building <strong>custom websites</strong>, <strong>web applications</strong>, and <strong>CMS-based platforms</strong></li>
+  <li>🎯 Currently focused on delivering <strong>scalable</strong> and <strong>user-centric</strong> solutions for startups and businesses</li>
 </ul>
+
 
  
 
