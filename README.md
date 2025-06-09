@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, I'm Reza</h1>
-<h3 align="center">Full-Stack Developer & Web Designer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <hr>
 
 <h3>About Me</h3>
 <p>
-  I'm a full-stack web developer with 4+ years of experience in designing, building, and deploying websites and applications.<br>
+  I'm a full-stack web developer with 4+ years of experience in designing and building modern <strong>web applications</strong> and <strong>websites</strong>.<br>
   I focus on clean code and seamless user experience across all devices and platforms.
 </p>
 
 <ul>
-  <li>Full-stack developer with 4+ years of experience in building modern <strong>web applications</strong> and <strong>websites</strong>.</li>
   <li>Creator of <a href="https://saterweb.com" target="_blank"><strong>Saterweb</strong></a> — a digital web services platform.</li>
   <li><strong>Experience:</strong> Custom websites, web apps, and CMS-based platforms</li>
   <li><strong>Current focus:</strong> Scalable, user-centric solutions for startups and businesses</li>
-  <li>Focused on <strong>clean code</strong>, <strong>scalable architecture</strong>, and <strong>UI/UX design</strong>.</li>
   <li>Passionate about building <strong>fast</strong>, <strong>reliable</strong>, and <strong>elegant</strong> web experiences.</li>
 </ul>
 
