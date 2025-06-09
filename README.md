@@ -7,13 +7,15 @@
 💡 Passionate about building fast, reliable, and elegant web applications. Passionate about building **fast**, **reliable**, and **elegant** web applications.
 
 
-## 🚀 About Me
+👨‍💼 About Me
 
-- 💻 **Tech Stack**: PHP (Laravel), JavaScript (React), MySQL, HTML5, CSS3, Bootstrap, Livewire, WordPress  
-- 🎨 **Graphic Design**: Photoshop, Illustrator — Logo and Banner Design  
-- 🔧 **Tools I Use**: PhpStorm, Postman, GitHub, OBS, Wamp/Xampp, Excel, Word, PowerPoint  
-- 📝 **Content Creator**: Writing technical articles on Medium and other platforms  
-- 🌐 **Active On**: GitHub, LinkedIn, X (Twitter), YouTube  
+I'm a full-stack web developer with over 4 years of experience in designing, building, and deploying modern websites and web applications.  
+My main focus is on writing clean, scalable code and creating seamless user experiences.  
+
+🛠️ Tech I love: Laravel, Livewire, Tailwind CSS, Alpine.js, JavaScript  
+🚀 Founder of [Saterweb](https://saterweb.com) — a web design & digital service agency.  
+🎯 Currently building custom solutions for businesses and startups.
+ 
 
 ---
 
