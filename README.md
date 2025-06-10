@@ -12,11 +12,6 @@
   I focus on clean code and seamless user experience across all devices and platforms.
 </p>
 As the founder of [SaterWeb](https://saterweb.com), I help businesses grow their digital presence with powerful and elegant solutions.
-
-
-- 🔭 I’m currently working on: A full web service ordering platform with invoice generation and domain checker
-- 🌱 I’m currently learning: Advanced DevOps, Docker, and microservices architecture
-- 💬 Ask me about: Laravel, Livewire, UI/UX, TailwindCSS, SEO
 - 📫 Reach me at: **youremail@example.com**
 - 🌐 Visit my website: [saterweb.com](https://saterweb.com)
 <ul>
