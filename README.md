@@ -24,27 +24,6 @@
   <li>🔥 Passionate about building <strong>fast</strong>, <strong>reliable</strong>, and <strong>elegant</strong> web experiences</li>
 </ul>
 
-
-## 🛠️ Skills
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,react,js,html,css,bootstrap,mysql,wordpress,postman,figma,photoshop,illustrator" />
-  </a>
-</p>
-## 💼 Skills & Technologies
-
-### 🧠 Core Skills
-- **Backend:** Laravel, PHP, MySQL, REST APIs
-- **Frontend:** Livewire, Alpine.js, TailwindCSS, Blade
-- **CMS & Panel:** Plesk, WordPress, WHMCS (basic)
-
-### 🔧 Tools & DevOps
-- Git & GitHub, Linux (Ubuntu), SSH, Composer, Nginx, VS Code, Postman
-
-### 🎨 Other Skills
-- Graphic Design (Photoshop, Illustrator), SEO, Project Management
-
 ## 🛠️ Skills
 
 <table>
@@ -90,10 +69,47 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=illustrator" width="40" /><br>Illustrator
     </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nginx" width="40" /><br>Nginx
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="40" /><br>GitHub
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=linux" width="40" /><br>Linux
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=composer" width="40" /><br>Composer
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="40" /><br>VS Code
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=seo" width="40" /><br>SEO
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=api" width="40" /><br>REST API
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40" /><br>TailwindCSS
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🌐<br>Livewire
+    </td>
+    <td align="center">
+      🎯<br>Alpine.js
+    </td>
+    <td align="center">
+      🧠<br>Project Management
+    </td>
   </tr>
 </table>
 
----
+
 
 ## 📬 Contact
 
