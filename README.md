@@ -72,16 +72,13 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=illustrator" width="40" /><br>Illustrator
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+      <td align="center">
       <img src="https://skillicons.dev/icons?i=seo" width="40" /><br>SEO
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=api" width="40" /><br>REST API
     </td>
   </tr>
-  
 </table>
 
 
