@@ -13,8 +13,22 @@
   As the founder of <a href="https://saterweb.com" target="_blank"><strong>SaterWeb</strong></a>, I help businesses grow their digital presence through powerful, elegant, and scalable web solutions.
   I focus on writing clean, maintainable code and delivering seamless user experiences across all devices and platforms.
 </p>
-
+<ul>
+  <li>🛠️ <strong>Experience:</strong> Custom websites, web apps, and CMS-based platforms</li>
+  <li>🎯 <strong>Current focus:</strong> Scalable, user-centric solutions for startups and businesses</li>
+  <li>🔥 Passionate about building <strong>fast</strong>, <strong>reliable</strong>, and <strong>elegant</strong> web experiences</li>
+</ul>
 ## 🛠️ Skills
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=php" width="40" /><br>PHP
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/livewire.svg" width="40" /><br>Livewire
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
