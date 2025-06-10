@@ -33,9 +33,6 @@
 
 ---
 
-## 🌐 Connect with me
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
 
-- 📧 **Email**: your-email@example.com  
-- 💼 **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
-- 🐦 **Twitter**: [twitter.com/yourusername](https://twitter.com/yourusername)
 
