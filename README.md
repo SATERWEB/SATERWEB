@@ -6,17 +6,13 @@
 
 <hr>
 
-<h3>About Me</h3>
+<h3>🧑‍💻 About Me</h3>
 <p>
   I'm a full-stack web developer with 4+ years of experience in designing and building modern <strong>web applications</strong> and <strong>websites</strong>.<br>
   I focus on clean code and seamless user experience across all devices and platforms.
 </p>
-## 🧑‍💻 About Me
-
-Hi! I'm a full-stack web developer with a strong focus on **Laravel**, **Livewire**, and modern, user-centered design.  
-I specialize in building scalable web applications, support ticket systems, custom dashboards, and smart domain checkers.
-
 As the founder of [SaterWeb](https://saterweb.com), I help businesses grow their digital presence with powerful and elegant solutions.
+
 
 - 🔭 I’m currently working on: A full web service ordering platform with invoice generation and domain checker
 - 🌱 I’m currently learning: Advanced DevOps, Docker, and microservices architecture
