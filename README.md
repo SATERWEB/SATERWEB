@@ -49,6 +49,9 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="40" /><br>Bootstrap
     </td>
+    <td align="center">
+      🌐<br>Livewire
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -78,11 +81,7 @@
       <img src="https://skillicons.dev/icons?i=api" width="40" /><br>REST API
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      🌐<br>Livewire
-    </td>
-  </tr>
+  
 </table>
 
 
