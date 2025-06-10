@@ -45,6 +45,53 @@
 ### 🎨 Other Skills
 - Graphic Design (Photoshop, Illustrator), SEO, Project Management
 
+## 🛠️ Skills
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=php" width="40" /><br>PHP
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=laravel" width="40" /><br>Laravel
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="40" /><br>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="40" /><br>React
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="40" /><br>HTML
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="40" /><br>CSS
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="40" /><br>Bootstrap
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="40" /><br>MySQL
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=wordpress" width="40" /><br>WordPress
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postman" width="40" /><br>Postman
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma" width="40" /><br>Figma
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=photoshop" width="40" /><br>Photoshop
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=illustrator" width="40" /><br>Illustrator
+    </td>
+  </tr>
+</table>
 
 ---
 
