@@ -15,7 +15,6 @@
 </p>
 
 <ul>
-  <li>👨‍💼 Founder of <a href="https://saterweb.com" target="_blank"><strong>SaterWeb</strong></a> — a digital web services platform</li>
   <li>🛠️ <strong>Experience:</strong> Custom websites, web apps, and CMS-based platforms</li>
   <li>🎯 <strong>Current focus:</strong> Scalable, user-centric solutions for startups and businesses</li>
   <li>🔥 Passionate about building <strong>fast</strong>, <strong>reliable</strong>, and <strong>elegant</strong> web experiences</li>
