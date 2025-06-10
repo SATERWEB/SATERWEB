@@ -12,8 +12,7 @@
   I focus on clean code and seamless user experience across all devices and platforms.
 </p>
 As the founder of [SaterWeb](https://saterweb.com), I help businesses grow their digital presence with powerful and elegant solutions.
-- 📫 Reach me at: **youremail@example.com**
-- 🌐 Visit my website: [saterweb.com](https://saterweb.com)
+
 <ul>
   <li>Creator of <a href="https://saterweb.com" target="_blank"><strong>Saterweb</strong></a> — a digital web services platform.</li>
   <li><strong>Experience:</strong> Custom websites, web apps, and CMS-based platforms</li>
