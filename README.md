@@ -83,15 +83,3 @@
 
 
 
-## 📬 Contact
-
-- Website: [saterweb.com](https://saterweb.com)  
-- Email: **youremail@example.com**  
-- Telegram (optional): [@yourtelegram](https://t.me/yourtelegram)  
-- LinkedIn (optional): [Your LinkedIn](https://linkedin.com/in/yourlinkedin)
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
-
