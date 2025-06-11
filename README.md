@@ -18,7 +18,7 @@
 
 <p>
   I focus on writing clean, maintainable code and delivering seamless user experiences across all devices and platforms.
-</p>
+</p> 
 
 <ul>
   <li>🛠️ <strong>Experience:</strong> Custom websites, web apps, and CMS-based platforms</li>
