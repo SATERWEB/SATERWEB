@@ -28,7 +28,7 @@
 
 
 
-## 🛠️ Skills
+## 🛠️ Skills 
 <table>
   <tr>
     <td align="center">
