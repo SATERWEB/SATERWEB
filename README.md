@@ -60,7 +60,6 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=postman" width="40" /><br>Postman
     </td>
-   
      <td align="center">
       <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/livewire.svg" width="40" /><br>Livewire
     </td>
