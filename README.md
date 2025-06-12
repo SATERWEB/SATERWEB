@@ -58,20 +58,9 @@
       <img src="https://skillicons.dev/icons?i=mysql" width="40" /><br>MySQL
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=wordpress" width="40" /><br>WordPress
-    </td>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=postman" width="40" /><br>Postman
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma" width="40" /><br>Figma
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=photoshop" width="40" /><br>Photoshop
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=illustrator" width="40" /><br>Illustrator
-    </td>
+   
      <td align="center">
       <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/livewire.svg" width="40" /><br>Livewire
     </td>
