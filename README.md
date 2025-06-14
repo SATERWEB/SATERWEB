@@ -52,9 +52,6 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="40" /><br>Bootstrap
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="40" /><br>ReactNative
-    </td>
   </tr>
   <tr>
     <td align="center">
