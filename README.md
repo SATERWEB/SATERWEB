@@ -41,9 +41,6 @@
       <img src="https://skillicons.dev/icons?i=js" width="40" /><br>JavaScript
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="40" /><br>React
-    </td>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=html" width="40" /><br>HTML
     </td> 
     <td align="center">
@@ -60,12 +57,12 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=postman" width="40" /><br>Postman
     </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="40" /><br>React Native
+    </td>
      <td align="center">
       <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/livewire.svg" width="40" /><br>Livewire
     </td>
-      <td align="center">
-    <img src="https://skillicons.dev/icons?i=react" width="40" /><br>React Native
-  </td>
   </tr>
 </table>
 
