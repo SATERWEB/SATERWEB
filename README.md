@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" width="40" /><br>MySQL
+  <img src="https://cdn.simpleicons.org/livewire" width="40" /><br>Livewire
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react" width="40" /><br>React Native
@@ -60,9 +60,9 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=postman" width="40" /><br>Postman
     </td>
-<td align="center">
-  <img src="https://cdn.simpleicons.org/livewire" width="40" /><br>Livewire
-</td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="40" /><br>MySQL
+    </td>
   </tr>
 </table>
 
