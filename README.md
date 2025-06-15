@@ -45,7 +45,7 @@
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=html" width="40" /><br>HTML
-    </td>
+    </td> 
     <td align="center">
       <img src="https://skillicons.dev/icons?i=css" width="40" /><br>CSS
     </td>
