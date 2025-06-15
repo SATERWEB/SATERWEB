@@ -46,9 +46,6 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=css" width="40" /><br>CSS
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="40" /><br>Bootstrap
-    </td>
   </tr>
   <tr>
     <td align="center">
@@ -62,6 +59,9 @@
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql" width="40" /><br>MySQL
+    </td>
+        <td align="center">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="40" /><br>Bootstrap
     </td>
   </tr>
 </table>
