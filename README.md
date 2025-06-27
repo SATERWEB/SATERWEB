@@ -11,7 +11,7 @@
 <p> 
   I'm a full-stack web developer with over 4 years of experience in designing and building modern <strong>web applications</strong> and <strong>custom websites</strong>.
 </p> 
- 
+  
 <p> 
   As the founder of <a href="https://saterweb.com" target="_blank"><strong>SaterWeb</strong></a>, I help businesses grow their digital presence through powerful, elegant, and scalable web solutions.
 </p>
