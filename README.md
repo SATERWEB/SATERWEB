@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm a Full-Stack Web Developer</h1>
+<h1 align="center">Hi there 👋, I'm a Full-Stack Web Developer</h1> 
 <p align="center">
   Owner of <a href="https://saterweb.com" target="_blank"><strong>SaterWeb (Digital Future Data Processors)</strong></a> <br/> 
         
