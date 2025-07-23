@@ -8,7 +8,7 @@
                             
 <h3>🧑‍💻 About Me</h3>               
            
-<p>       
+<p>        
   I'm a full-stack web developer with over 4 years of experience in designing and building modern <strong>web applications</strong> and <strong>custom websites</strong>.
 </p> 
    
