@@ -3,8 +3,8 @@
   Owner of <a href="https://saterweb.com" target="_blank"><strong>SaterWeb (Digital Future Data Processors)</strong></a> <br/>    
                               
 </p>                                      
-                                                             
-<hr>                                                          
+                                                              
+<hr>                                                           
                                               
 <h3>🧑‍💻 About Me</h3>                     
                   
