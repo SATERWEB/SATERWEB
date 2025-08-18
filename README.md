@@ -46,9 +46,6 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=css" width="40" /><br>CSS
     </td>
-   <td align="center">
-      <img src="https://skillicons.dev/icons?i=api" width="40" /><br>api
-    </td>
   </tr>
   <tr>
     <td align="center">
